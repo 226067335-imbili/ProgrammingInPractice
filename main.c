@@ -12,6 +12,7 @@ int main()
  printf("Enter Population: ");
  scanf("%d", &population);
  printf("\n---------------------------------\n");
+ printf("My name is Soini");
  printf("Municipality : %s\n", municipality);
  printf("Mayor : %s\n", mayor);
  printf("Population : %d\n", population);
